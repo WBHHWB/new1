@@ -1,2 +1,6 @@
 MY
+<<<<<<< HEAD
 master
+=======
+new-first
+>>>>>>> new-fix

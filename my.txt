@@ -1,17 +1,1 @@
-MY
-<<<<<<< HEAD
-
-masternew-firstnew-firstyes-my-new-first
-
-
-new-first
-
-=======
-new-first
---------------------
-opopoppo
->>>>>>> new-fix
-<<<<<<< HEAD
-=======
-ddddddddddddddddddd
->>>>>>> new-fix
+123456789

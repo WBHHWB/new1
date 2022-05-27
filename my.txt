@@ -11,3 +11,7 @@ new-first
 --------------------
 opopoppo
 >>>>>>> new-fix
+<<<<<<< HEAD
+=======
+ddddddddddddddddddd
+>>>>>>> new-fix

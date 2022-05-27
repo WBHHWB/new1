@@ -1,4 +1,2 @@
 MY
 new-first
-yes-my-new
--first
